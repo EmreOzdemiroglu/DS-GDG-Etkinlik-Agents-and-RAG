@@ -2,6 +2,16 @@
 
 This project contains a Jupyter notebook (`smlag.ipynb`) demonstrating various features and use cases of the `smolagents` library. Examples include basic search, integrating different language models (Hugging Face, LiteLLM for Gemini, Ollama), creating multi-agent systems, and implementing an Agentic RAG system.
 
+## Cloning the Repository
+
+To get the code, clone the repository and switch to the `agents` branch:
+
+```bash
+git clone https://github.com/EmreOzdemiroglu/DS-GDG-Etkinlik-Agents-and-RAG.git
+cd DS-GDG-Etkinlik-Agents-and-RAG
+git checkout agents
+```
+
 ## Setup Instructions
 
 Follow these steps to set up your environment and run the notebook.
